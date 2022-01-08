@@ -16,6 +16,23 @@
       "message": "In case someone needs it.",
       "revId": "ff44e6342b95bfc920b30d24102e536dec4c5416",
       "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71"
+    },
+    {
+      "unresolved": false,
+      "key": {
+        "uuid": "55b559c4_7dc0e838",
+        "filename": "/PATCHSET_LEVEL",
+        "patchSetId": 1
+      },
+      "lineNbr": 0,
+      "author": {
+        "id": 10067
+      },
+      "writtenOn": "2022-01-08T23:54:33Z",
+      "side": 1,
+      "message": "Not sure why, but build system on 18.1 would ignore missing libantradio module and just continue building app as if nothing was wrong with it.",
+      "revId": "ff44e6342b95bfc920b30d24102e536dec4c5416",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71"
     }
   ]
 }
